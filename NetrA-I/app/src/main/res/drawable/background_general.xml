@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item >
+        <shape>
+            <gradient android:startColor="@color/n_purple"
+                android:endColor="#130B2B"
+                android:angle="-90"/>
+        </shape>
+    </item>
+
+    <item >
+       <bitmap android:src="@drawable/pink_circle"
+           android:alpha="0.7"/>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/green_circle"
+            android:alpha="0.7"/>
+    </item>
+
+</layer-list>
