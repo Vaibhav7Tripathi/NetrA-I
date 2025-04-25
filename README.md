@@ -1,1 +1,8 @@
 # NetrA-I
+•DevelopedanAI-drivenvideoanalytics systemfor
+ real-timeCCTVsurveillance,enhancingsecurity
+ monitoringandanomalydetectionby20%
+ • Increasedanomalydetectionaccuracyby35%using
+ YOLOandOpenCVforreal-timeobjectdetection
+ •Reducedfalsealarmsby40%throughadvanced
+ imagesegmentationandnoisefilteringtechniques
